@@ -1,4 +1,6 @@
 # model_experience
 
-1 XGBOOST
-2 lightGBM
+一、XGBOOST
+
+[二、lightGBM](./lightGBM.md)
+
